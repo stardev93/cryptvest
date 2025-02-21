@@ -18,7 +18,7 @@ Password: ```demo@cryptvest.tk```
 
 ### Quick Project Setup (from linux machine perspective, adjust accordingly on Windows/OSX)
 ###### (Not including the dev environment)
-1. Run `git clone https://bitbucket.org/williamchanrico/cryptvest`
+1. Run `https://github.com/stardev93/cryptvest.git`
 2. Create a MySQL database for the project
     * ```mysql -u root -p```, or if using Vagrant: ```mysql -u homestead -psecret```
     * ```create database cryptvest;```
@@ -36,19 +36,19 @@ Password: ```demo@cryptvest.tk```
 2. Open your web browser and go to `http://localhost`
 
 ### Screenshots
-![screenshot](https://bytebucket.org/williamchanrico/cryptvest/raw/bae24156983f2f6874d0a006e506adbd6475badc/non-laravel-files/screenshots/screenshot1.png?token=90998bf2750b8fb43b8570f246f72987f55dcab1)
+![screenshot](https://github.com/stardev93/cryptvest/blob/main/non-laravel-files/screenshots/screenshot1.png)
 
-![screenshot](https://bytebucket.org/williamchanrico/cryptvest/raw/bae24156983f2f6874d0a006e506adbd6475badc/non-laravel-files/screenshots/screenshot2.png?token=d35abb157a487166bc3435d6764634f84e8a85d0)
+![screenshot](https://github.com/stardev93/cryptvest/blob/main/non-laravel-files/screenshots/screenshot2.png)
 
-![screenshot](https://bytebucket.org/williamchanrico/cryptvest/raw/bae24156983f2f6874d0a006e506adbd6475badc/non-laravel-files/screenshots/screenshot3.png?token=b2c589fe89c6a6fbeb078b36968141fd9d92cc71)
+![screenshot](https://github.com/stardev93/cryptvest/blob/main/non-laravel-files/screenshots/screenshot3.png)
 
-![screenshot](https://bytebucket.org/williamchanrico/cryptvest/raw/bae24156983f2f6874d0a006e506adbd6475badc/non-laravel-files/screenshots/screenshot4.png?token=70fd90590f0237233847a16e5e623b5ccff4efa8)
+![screenshot](https://github.com/stardev93/cryptvest/blob/main/non-laravel-files/screenshots/screenshot4.png)
 
-![screenshot](https://bytebucket.org/williamchanrico/cryptvest/raw/bae24156983f2f6874d0a006e506adbd6475badc/non-laravel-files/screenshots/screenshot5.png?token=23ff79430d6b58b293e17ad619235c864a79c33c)
+![screenshot](https://github.com/stardev93/cryptvest/blob/main/non-laravel-files/screenshots/screenshot5.png)
 
-![screenshot](https://bytebucket.org/williamchanrico/cryptvest/raw/bae24156983f2f6874d0a006e506adbd6475badc/non-laravel-files/screenshots/screenshot6.png?token=5d380cffafb3e75efa129682fe0bc587d1c2f762)
+![screenshot](https://github.com/stardev93/cryptvest/blob/main/non-laravel-files/screenshots/screenshot6.png)
 
-![screenshot](https://bytebucket.org/williamchanrico/cryptvest/raw/bae24156983f2f6874d0a006e506adbd6475badc/non-laravel-files/screenshots/screenshot7.png?token=61f184816813e2ef92f3eb98df78184181302171)
+![screenshot](https://github.com/stardev93/cryptvest/blob/main/non-laravel-files/screenshots/screenshot7.png)
 
 ### Get Socialite Login and Other API Keys:
 * [Google Captcha API](https://www.google.com/recaptcha/admin#list)

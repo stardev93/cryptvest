@@ -15,7 +15,6 @@ Email: ```demo@cryptvest.tk```
 
 Password: ```demo@cryptvest.tk```
 
-Demo is hosted on private server: ```https://cryptvest.arzhon.id```
 
 ### Quick Project Setup (from linux machine perspective, adjust accordingly on Windows/OSX)
 ###### (Not including the dev environment)
